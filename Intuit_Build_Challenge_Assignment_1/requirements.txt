@@ -1,0 +1,23 @@
+# Producer-Consumer Pattern Implementation
+# Requirements file for Intuit Build Challenge Assignment 1
+#
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Required Python version: 3.7 or higher
+#
+# Standard library modules used:
+# - threading: For thread management and synchronization
+# - collections.deque: For efficient queue operations
+# - typing: For type hints (Python 3.5+)
+# - unittest: For unit testing
+# - time: For delays and timing
+#
+# Installation:
+# No installation required. This project uses only Python standard library.
+#
+# To verify Python version:
+# python3 --version
+#
+# Expected: Python 3.7 or higher
+
