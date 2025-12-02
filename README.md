@@ -70,7 +70,7 @@ cd Intuit_Build_Challenge_Assignment_2
 python3 main.py
 ```
 
-**For detailed information, see:** [Assignment 2 README](Intuit_Build_Challenge_Assignment_2/README.md)
+**For detailed information, see:** [Assignment 2 README](Intuit_Build_Challenge_Assignment_2/README.md) | Console Outputs attached here.
 
 ## Requirements
 
