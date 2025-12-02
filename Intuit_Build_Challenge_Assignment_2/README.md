@@ -130,16 +130,13 @@ Revenue by Region:
 ```
 
 ## Console Output
+<img width="1481" height="1003" alt="Screenshot 2025-12-02 at 12 57 00 AM" src="https://github.com/user-attachments/assets/4bbf4310-8332-46df-9b5d-bbc8b8600e78" />
 
-<img width="1707" height="856" alt="Console output 1" src="https://github.com/user-attachments/assets/5ccb3127-777b-4b85-9ff4-48e397d9b74b" />
+<img width="1498" height="903" alt="Screenshot 2025-12-02 at 12 57 14 AM" src="https://github.com/user-attachments/assets/a449898d-a376-4e69-9b27-5123c0a63cc5" />
 
-<img width="1691" height="680" alt="Console Output 2" src="https://github.com/user-attachments/assets/b55b1d1a-b7f4-4e87-b757-7cd93e29b27c" />
+<img width="1473" height="899" alt="Screenshot 2025-12-02 at 12 57 30 AM" src="https://github.com/user-attachments/assets/9f99bf91-1289-46da-a6ab-9e47806526d5" />
 
-<img width="1710" height="762" alt="Console Output 3" src="https://github.com/user-attachments/assets/8bab5194-713e-416e-87df-bed39549eca5" />
 
-<img width="1710" height="850" alt="Console Output 4" src="https://github.com/user-attachments/assets/345b246e-f406-4a17-b110-b2becda22b0c" />
-
-<img width="1710" height="548" alt="Console Output 5" src="https://github.com/user-attachments/assets/578d6112-1a90-4e70-a868-d1b49b8c1d60" />
 
 ## Key Components
 
