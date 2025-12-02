@@ -136,7 +136,7 @@ Each assignment includes:
 - **SETUP.md**: Detailed setup and installation instructions
 - **DESIGN_DECISION.md**: Comprehensive design decisions, thought process, assumptions, and implementation rationale
 
-> **Note:** The DESIGN_DECISION.md file is particularly important as it demonstrates the engineering thought process, architectural decisions, trade-offs considered, and the depth of analysis applied to the solution. This document will help you understand not just *what* was implemented, but *why* it was implemented that way.
+> **Note:** The DESIGN_DECISION.md file is particularly important as it demonstrates the engineering thought process, architectural decisions, trade-offs considered, and the depth of analysis applied to the solution. This document will help you(evaluator) understand not just *what* was implemented, but *why* it was implemented that way. 
 
 ## Deliverables
 
