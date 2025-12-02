@@ -1,0 +1,24 @@
+# Data Analysis with Functional Programming
+# Requirements file for Intuit Build Challenge Assignment 2
+#
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Required Python version: 3.7 or higher
+#
+# Standard library modules used:
+# - csv: For reading CSV files
+# - functools: For reduce operations (functional programming)
+# - collections: For defaultdict and grouping operations
+# - typing: For type hints (Python 3.5+)
+# - unittest: For unit testing
+# - pathlib: For file path operations
+#
+# Installation:
+# No installation required. This project uses only Python standard library.
+#
+# To verify Python version:
+# python3 --version
+#
+# Expected: Python 3.7 or higher
+

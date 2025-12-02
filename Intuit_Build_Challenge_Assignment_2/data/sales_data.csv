@@ -1,0 +1,94 @@
+Date,Product,Category,Region,Customer_Type,Quantity,Unit_Price,Total_Revenue
+2024-01-15,TurboTax Deluxe,Tax Software,West,Individual,1250,59.99,74987.50
+2024-01-18,QuickBooks Online,Accounting Software,East,Small Business,850,25.00,21250.00
+2024-01-20,TurboTax Premier,Tax Software,South,Individual,980,79.99,78430.20
+2024-01-22,QuickBooks Desktop,Accounting Software,Midwest,Small Business,420,299.99,125995.80
+2024-01-25,Intuit Payroll,Payroll Services,West,Small Business,320,45.00,14400.00
+2024-02-01,TurboTax Home & Business,Tax Software,East,Individual,1120,89.99,100788.80
+2024-02-05,QuickBooks Online,Accounting Software,South,Small Business,920,25.00,23000.00
+2024-02-08,Payment Processing,Payment Services,Midwest,Enterprise,150,2.90,435.00
+2024-02-12,TurboTax Deluxe,Tax Software,West,Individual,1380,59.99,82786.20
+2024-02-15,QuickBooks Desktop,Accounting Software,East,Small Business,380,299.99,113996.20
+2024-02-18,Intuit Payroll,Payroll Services,South,Small Business,450,45.00,20250.00
+2024-02-22,TurboTax Premier,Tax Software,Midwest,Individual,1050,79.99,83989.50
+2024-03-01,QuickBooks Online,Accounting Software,West,Small Business,1100,25.00,27500.00
+2024-03-05,TurboTax Home & Business,Tax Software,East,Individual,1320,89.99,118786.80
+2024-03-08,Payment Processing,Payment Services,South,Enterprise,280,2.90,812.00
+2024-03-12,QuickBooks Desktop,Accounting Software,Midwest,Small Business,410,299.99,122995.90
+2024-03-15,Intuit Payroll,Payroll Services,West,Small Business,520,45.00,23400.00
+2024-03-18,TurboTax Deluxe,Tax Software,South,Individual,1450,59.99,86985.50
+2024-03-22,QuickBooks Online,Accounting Software,East,Small Business,980,25.00,24500.00
+2024-03-25,TurboTax Premier,Tax Software,Midwest,Individual,1180,79.99,94478.20
+2024-04-01,QuickBooks Desktop,Accounting Software,West,Small Business,390,299.99,116996.10
+2024-04-05,Intuit Payroll,Payroll Services,South,Small Business,480,45.00,21600.00
+2024-04-08,TurboTax Home & Business,Tax Software,East,Individual,1280,89.99,115187.20
+2024-04-12,Payment Processing,Payment Services,Midwest,Enterprise,320,2.90,928.00
+2024-04-15,QuickBooks Online,Accounting Software,West,Small Business,1200,25.00,30000.00
+2024-04-18,TurboTax Deluxe,Tax Software,South,Individual,1520,59.99,91208.80
+2024-04-22,QuickBooks Desktop,Accounting Software,East,Small Business,400,299.99,119996.00
+2024-04-25,Intuit Payroll,Payroll Services,Midwest,Small Business,550,45.00,24750.00
+2024-05-01,TurboTax Premier,Tax Software,West,Individual,1220,79.99,97687.80
+2024-05-05,QuickBooks Online,Accounting Software,South,Small Business,1050,25.00,26250.00
+2024-05-08,TurboTax Home & Business,Tax Software,East,Individual,1400,89.99,125986.00
+2024-05-12,Payment Processing,Payment Services,Midwest,Enterprise,380,2.90,1102.00
+2024-05-15,QuickBooks Desktop,Accounting Software,West,Small Business,430,299.99,128996.70
+2024-05-18,Intuit Payroll,Payroll Services,South,Small Business,600,45.00,27000.00
+2024-05-22,TurboTax Deluxe,Tax Software,Midwest,Individual,1600,59.99,95984.00
+2024-05-25,QuickBooks Online,Accounting Software,East,Small Business,1150,25.00,28750.00
+2024-06-01,TurboTax Premier,Tax Software,West,Individual,1350,79.99,108086.50
+2024-06-05,QuickBooks Desktop,Accounting Software,South,Small Business,450,299.99,134995.50
+2024-06-08,Intuit Payroll,Payroll Services,Midwest,Small Business,650,45.00,29250.00
+2024-06-12,TurboTax Home & Business,Tax Software,East,Individual,1480,89.99,133185.20
+2024-06-15,Payment Processing,Payment Services,West,Enterprise,420,2.90,1218.00
+2024-06-18,QuickBooks Online,Accounting Software,South,Small Business,1250,25.00,31250.00
+2024-06-22,TurboTax Deluxe,Tax Software,Midwest,Individual,1700,59.99,101983.00
+2024-06-25,QuickBooks Desktop,Accounting Software,West,Small Business,470,299.99,140995.30
+2024-07-01,Intuit Payroll,Payroll Services,East,Small Business,700,45.00,31500.00
+2024-07-05,TurboTax Premier,Tax Software,South,Individual,1420,79.99,113585.80
+2024-07-08,QuickBooks Online,Accounting Software,Midwest,Small Business,1300,25.00,32500.00
+2024-07-12,TurboTax Home & Business,Tax Software,West,Individual,1550,89.99,139484.50
+2024-07-15,Payment Processing,Payment Services,East,Enterprise,450,2.90,1305.00
+2024-07-18,QuickBooks Desktop,Accounting Software,South,Small Business,490,299.99,146995.10
+2024-07-22,Intuit Payroll,Payroll Services,Midwest,Small Business,750,45.00,33750.00
+2024-07-25,TurboTax Deluxe,Tax Software,West,Individual,1800,59.99,107982.00
+2024-08-01,QuickBooks Online,Accounting Software,East,Small Business,1400,25.00,35000.00
+2024-08-05,TurboTax Premier,Tax Software,South,Individual,1500,79.99,119985.00
+2024-08-08,QuickBooks Desktop,Accounting Software,Midwest,Small Business,510,299.99,152994.90
+2024-08-12,Intuit Payroll,Payroll Services,West,Small Business,800,45.00,36000.00
+2024-08-15,TurboTax Home & Business,Tax Software,East,Individual,1620,89.99,145783.80
+2024-08-18,Payment Processing,Payment Services,South,Enterprise,480,2.90,1392.00
+2024-08-22,QuickBooks Online,Accounting Software,West,Small Business,1500,25.00,37500.00
+2024-08-25,TurboTax Deluxe,Tax Software,Midwest,Individual,1900,59.99,113981.00
+2024-09-01,QuickBooks Desktop,Accounting Software,East,Small Business,530,299.99,158994.70
+2024-09-05,Intuit Payroll,Payroll Services,South,Small Business,850,45.00,38250.00
+2024-09-08,TurboTax Premier,Tax Software,West,Individual,1580,79.99,126384.20
+2024-09-12,QuickBooks Online,Accounting Software,Midwest,Small Business,1600,25.00,40000.00
+2024-09-15,TurboTax Home & Business,Tax Software,East,Individual,1700,89.99,152983.00
+2024-09-18,Payment Processing,Payment Services,West,Enterprise,520,2.90,1508.00
+2024-09-22,QuickBooks Desktop,Accounting Software,South,Small Business,550,299.99,164994.50
+2024-09-25,Intuit Payroll,Payroll Services,Midwest,Small Business,900,45.00,40500.00
+2024-10-01,TurboTax Deluxe,Tax Software,East,Individual,2000,59.99,119980.00
+2024-10-05,QuickBooks Online,Accounting Software,West,Small Business,1700,25.00,42500.00
+2024-10-08,TurboTax Premier,Tax Software,South,Individual,1650,79.99,131983.50
+2024-10-12,QuickBooks Desktop,Accounting Software,Midwest,Small Business,570,299.99,170994.30
+2024-10-15,Intuit Payroll,Payroll Services,East,Small Business,950,45.00,42750.00
+2024-10-18,TurboTax Home & Business,Tax Software,West,Individual,1750,89.99,157482.50
+2024-10-22,Payment Processing,Payment Services,South,Enterprise,550,2.90,1595.00
+2024-10-25,QuickBooks Online,Accounting Software,East,Small Business,1800,25.00,45000.00
+2024-11-01,TurboTax Deluxe,Tax Software,Midwest,Individual,2100,59.99,125979.00
+2024-11-05,QuickBooks Desktop,Accounting Software,West,Small Business,590,299.99,176994.10
+2024-11-08,Intuit Payroll,Payroll Services,South,Small Business,1000,45.00,45000.00
+2024-11-12,TurboTax Premier,Tax Software,East,Individual,1720,79.99,137582.80
+2024-11-15,QuickBooks Online,Accounting Software,Midwest,Small Business,1900,25.00,47500.00
+2024-11-18,TurboTax Home & Business,Tax Software,West,Individual,1800,89.99,161982.00
+2024-11-22,Payment Processing,Payment Services,East,Enterprise,580,2.90,1682.00
+2024-11-25,QuickBooks Desktop,Accounting Software,South,Small Business,610,299.99,182993.90
+2024-12-01,Intuit Payroll,Payroll Services,Midwest,Small Business,1050,45.00,47250.00
+2024-12-05,TurboTax Deluxe,Tax Software,West,Individual,2200,59.99,131978.00
+2024-12-08,QuickBooks Online,Accounting Software,East,Small Business,2000,25.00,50000.00
+2024-12-12,TurboTax Premier,Tax Software,South,Individual,1780,79.99,142382.20
+2024-12-15,QuickBooks Desktop,Accounting Software,Midwest,Small Business,630,299.99,188993.70
+2024-12-18,Intuit Payroll,Payroll Services,West,Small Business,1100,45.00,49500.00
+2024-12-22,TurboTax Home & Business,Tax Software,East,Individual,1850,89.99,166481.50
+2024-12-25,Payment Processing,Payment Services,South,Enterprise,600,2.90,1740.00
+

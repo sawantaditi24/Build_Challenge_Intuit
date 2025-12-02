@@ -16,7 +16,14 @@ Intuit_Build _Challenge/
 │   └── requirements.txt        # Python dependencies
 │
 └── Intuit_Build_Challenge_Assignment_2/
-    └── (Assignment 2 files will be here)
+    ├── src/                    # Source code (functional programming)
+    ├── tests/                  # Unit tests
+    ├── data/                   # CSV dataset (Intuit business data)
+    ├── main.py                 # Main application entry point
+    ├── README.md               # Assignment 2 detailed documentation
+    ├── SETUP.md                # Setup instructions
+    ├── DESIGN_DECISION.md     # Design decisions, thought process, and assumptions
+    └── requirements.txt        # Python dependencies
 ```
 
 ## Assignments Overview
@@ -42,11 +49,29 @@ python3 main.py
 
 **For detailed information, see:** [Assignment 1 README](Intuit_Build_Challenge_Assignment_1/README.md)
 
-### Assignment 2: [To be completed]
+### Assignment 2: Data Analysis with Functional Programming
 
-**Status:** In Progress
+**Status:** Complete
 
-[Assignment 2 description will be added here]
+Implements a comprehensive data analysis application using functional programming paradigms. The application demonstrates proficiency with Stream operations, data aggregation, and lambda expressions by performing various analytical queries on sales data provided in CSV format.
+
+**Key Features:**
+- Functional programming implementation using Python generators (Stream-like operations)
+- Comprehensive data aggregation operations (12 analysis methods)
+- Lambda expressions used throughout (20+ occurrences)
+- CSV data processing with lazy evaluation
+- Intuit business sales data dataset (92 records)
+- Comprehensive unit tests (21 tests)
+- Production-ready code with proper error handling
+- Complete documentation and setup instructions
+
+**Quick Start:**
+```bash
+cd Intuit_Build_Challenge_Assignment_2
+python3 main.py
+```
+
+**For detailed information, see:** [Assignment 2 README](Intuit_Build_Challenge_Assignment_2/README.md)
 
 ## Requirements
 
@@ -63,7 +88,11 @@ python3 main.py
 
 2. Navigate to the assignment you want to run:
    ```bash
+   # For Assignment 1
    cd Intuit_Build_Challenge_Assignment_1
+   
+   # For Assignment 2
+   cd Intuit_Build_Challenge_Assignment_2
    ```
 
 3. Run the application:
@@ -81,20 +110,26 @@ python3 main.py
 Each assignment includes comprehensive unit tests. To run tests for a specific assignment:
 
 ```bash
-# Assignment 1
+# Assignment 1: Producer-Consumer Pattern
 cd Intuit_Build_Challenge_Assignment_1
+python3 -m unittest discover -s tests -p "test_*.py" -v
+
+# Assignment 2: Data Analysis with Functional Programming
+cd Intuit_Build_Challenge_Assignment_2
 python3 -m unittest discover -s tests -p "test_*.py" -v
 ```
 
 ## Code Quality
 
+Both assignments demonstrate:
 - Production-level code quality
-- Comprehensive unit test coverage
+- Comprehensive unit test coverage (60+ tests total)
 - Proper error handling and validation
-- Thread-safe operations
 - Modular and extensible design
 - Detailed code documentation
 - Best programming practices followed
+- Functional programming patterns (Assignment 2)
+- Thread synchronization (Assignment 1)
 
 ## Documentation
 
@@ -115,7 +150,12 @@ Each assignment includes:
 - Design documentation
 
 ### Assignment 2 Deliverables:
-- [To be completed]
+- Complete source code
+- Comprehensive unit tests (21 tests)
+- README with setup instructions and sample output
+- Results of all analyses printed to console
+- Design documentation
+- CSV dataset reflecting Intuit's business
 
 ## Author
 
