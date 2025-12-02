@@ -23,7 +23,7 @@ Intuit_Build _Challenge/
 
 ### Assignment 1: Producer-Consumer Pattern with Thread Synchronization
 
-**Status:** ✅ Complete
+**Status:** Complete
 
 Implements a classic producer-consumer pattern demonstrating thread synchronization and communication. The program simulates concurrent data transfer between a producer thread that reads from a source container and places items into a shared queue, and a consumer thread that reads from the queue and stores items in a destination container.
 
@@ -44,7 +44,7 @@ python3 main.py
 
 ### Assignment 2: [To be completed]
 
-**Status:** 🚧 In Progress
+**Status:** In Progress
 
 [Assignment 2 description will be added here]
 
@@ -88,13 +88,13 @@ python3 -m unittest discover -s tests -p "test_*.py" -v
 
 ## Code Quality
 
-- ✅ Production-level code quality
-- ✅ Comprehensive unit test coverage
-- ✅ Proper error handling and validation
-- ✅ Thread-safe operations
-- ✅ Modular and extensible design
-- ✅ Detailed code documentation
-- ✅ Best programming practices followed
+- Production-level code quality
+- Comprehensive unit test coverage
+- Proper error handling and validation
+- Thread-safe operations
+- Modular and extensible design
+- Detailed code documentation
+- Best programming practices followed
 
 ## Documentation
 
@@ -108,11 +108,11 @@ Each assignment includes:
 ## Deliverables
 
 ### Assignment 1 Deliverables:
-- ✅ Complete source code
-- ✅ Comprehensive unit tests
-- ✅ README with setup instructions and sample output
-- ✅ Results of all analyses printed to console
-- ✅ Design documentation
+- Complete source code
+- Comprehensive unit tests
+- README with setup instructions and sample output
+- Results of all analyses printed to console
+- Design documentation
 
 ### Assignment 2 Deliverables:
 - [To be completed]
