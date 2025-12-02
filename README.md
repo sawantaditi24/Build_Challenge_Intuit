@@ -40,6 +40,7 @@ Implements a classic producer-consumer pattern demonstrating thread synchronizat
 - Comprehensive unit tests (53+ tests)
 - Production-ready code with proper error handling
 - Complete documentation and setup instructions
+- Attached console outputs
 
 **Quick Start:**
 ```bash
@@ -47,7 +48,7 @@ cd Intuit_Build_Challenge_Assignment_1
 python3 main.py
 ```
 
-**For detailed information, see:** [Assignment 1 README](Intuit_Build_Challenge_Assignment_1/README.md)
+**For detailed information, see:** [Assignment 1 README](Intuit_Build_Challenge_Assignment_1/README.md) | Console Outputs attached here.
 
 ### Assignment 2: Data Analysis with Functional Programming
 
