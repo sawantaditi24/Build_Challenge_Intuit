@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a comprehensive data analysis application using functional programming paradigms. The application demonstrates proficiency with Stream operations, data aggregation, and lambda expressions by performing various analytical queries on sales data provided in CSV format.
+This project implements a comprehensive data analysis application using functional programming paradigms. The application delivers to expectations of provisioning Stream operations, data aggregation, and lambda expressions by performing various analytical queries on sales data provided in CSV format.
 
 The program reads data from a CSV file containing Intuit business sales data and executes multiple analytical queries using functional programming patterns including map, filter, reduce operations, and lambda expressions.
 

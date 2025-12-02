@@ -1,6 +1,6 @@
 # Intuit Build Challenge
 
-This repository contains the complete implementation of the Intuit Build Challenge assignments, demonstrating proficiency in concurrent programming, thread synchronization, and software engineering best practices.
+This repository contains the complete implementation of the Intuit Build Challenge assignments using software engineering best practices.
 
 ## Repository Structure
 
@@ -30,7 +30,7 @@ Intuit_Build _Challenge/
 
 ### Assignment 1: Producer-Consumer Pattern with Thread Synchronization
 
-**Status:** Complete
+
 
 Implements a classic producer-consumer pattern demonstrating thread synchronization and communication. The program simulates concurrent data transfer between a producer thread that reads from a source container and places items into a shared queue, and a consumer thread that reads from the queue and stores items in a destination container.
 
@@ -51,9 +51,7 @@ python3 main.py
 
 ### Assignment 2: Data Analysis with Functional Programming
 
-**Status:** Complete
-
-Implements a comprehensive data analysis application using functional programming paradigms. The application demonstrates proficiency with Stream operations, data aggregation, and lambda expressions by performing various analytical queries on sales data provided in CSV format.
+Implements a comprehensive data analysis application using functional programming paradigms, stream operations, data aggregation, and lambda expressions by performing various analytical queries on sales data provided in CSV format.
 
 **Key Features:**
 - Functional programming implementation using Python generators (Stream-like operations)
@@ -156,12 +154,3 @@ Each assignment includes:
 - Results of all analyses printed to console
 - Design documentation
 - CSV dataset reflecting Intuit's business
-
-## Author
-
-[Your Name]
-
-## License
-
-This project is part of the Intuit Build Challenge assignment.
-
