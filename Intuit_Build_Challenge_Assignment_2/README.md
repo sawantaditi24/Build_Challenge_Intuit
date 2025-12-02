@@ -129,6 +129,18 @@ Revenue by Region:
 ... (additional analyses)
 ```
 
+## Console Output
+
+<img width="1707" height="856" alt="Console output 1" src="https://github.com/user-attachments/assets/5ccb3127-777b-4b85-9ff4-48e397d9b74b" />
+
+<img width="1691" height="680" alt="Console Output 2" src="https://github.com/user-attachments/assets/b55b1d1a-b7f4-4e87-b757-7cd93e29b27c" />
+
+<img width="1710" height="762" alt="Console Output 3" src="https://github.com/user-attachments/assets/8bab5194-713e-416e-87df-bed39549eca5" />
+
+<img width="1710" height="850" alt="Console Output 4" src="https://github.com/user-attachments/assets/345b246e-f406-4a17-b110-b2becda22b0c" />
+
+<img width="1710" height="548" alt="Console Output 5" src="https://github.com/user-attachments/assets/578d6112-1a90-4e70-a868-d1b49b8c1d60" />
+
 ## Key Components
 
 ### CSVReader
