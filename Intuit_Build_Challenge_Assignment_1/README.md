@@ -156,6 +156,21 @@ Simulation Complete
 ================================================================================
 ```
 
+
+## Console Outputs:
+
+Producer-Consumer pattern demonstration
+<img width="1707" height="348" alt="Producer-Consumer Pattern Demonstration" src="https://github.com/user-attachments/assets/53a04fd8-5a42-4452-b0ef-151f7037efc6" />
+
+Producer-Consumer simulation
+<img width="1709" height="867" alt="Producer Consumer Simulation" src="https://github.com/user-attachments/assets/0e89fc7a-2b0c-4915-84c3-c96089bdfcfc" />
+
+Simulation results
+<img width="1709" height="402" alt="Simulation results" src="https://github.com/user-attachments/assets/cb6191f5-b529-4534-b8bc-3c5fa167cc75" />
+
+Data Integrity verification
+<img width="1709" height="402" alt="Simulation results" src="https://github.com/user-attachments/assets/fd1ae248-2db5-4147-928c-1e423e54b063" />
+
 ## Key Components
 
 ### BlockingQueue
