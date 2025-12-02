@@ -160,16 +160,14 @@ Simulation Complete
 ## Console Outputs:
 
 Producer-Consumer pattern demonstration
-<img width="1707" height="348" alt="Producer-Consumer Pattern Demonstration" src="https://github.com/user-attachments/assets/53a04fd8-5a42-4452-b0ef-151f7037efc6" />
+<img width="1306" height="325" alt="Demonstration - Console" src="https://github.com/user-attachments/assets/911058c3-8e82-4c5d-a7fe-38cf18cb7603" />
 
 Producer-Consumer simulation
-<img width="1709" height="867" alt="Producer Consumer Simulation" src="https://github.com/user-attachments/assets/0e89fc7a-2b0c-4915-84c3-c96089bdfcfc" />
+<img width="1298" height="938" alt="Simulation - Console" src="https://github.com/user-attachments/assets/76a80f37-fcd8-40be-a864-d0b21fa52f1a" />
 
-Simulation results
-<img width="1709" height="402" alt="Simulation results" src="https://github.com/user-attachments/assets/cb6191f5-b529-4534-b8bc-3c5fa167cc75" />
+Simulation results and Data Integrity verification
+<img width="1300" height="554" alt="Screenshot 2025-12-02 at 12 54 08 AM" src="https://github.com/user-attachments/assets/9e54a7f1-5b76-438a-b0e5-f4d48e5f2f96" />
 
-Data Integrity verification
-<img width="1709" height="402" alt="Simulation results" src="https://github.com/user-attachments/assets/fd1ae248-2db5-4147-928c-1e423e54b063" />
 
 ## Key Components
 
